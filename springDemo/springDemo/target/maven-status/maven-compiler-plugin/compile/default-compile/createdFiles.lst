@@ -1,0 +1,6 @@
+com\spring\batch\demo\springDemo\reader\StudentReader.class
+com\spring\batch\demo\springDemo\writer\StudentWriter.class
+com\spring\batch\demo\springDemo\processor\StudentProcessor.class
+com\spring\batch\demo\springDemo\SpringDemoApplication.class
+com\spring\batch\demo\springDemo\config\StudentConfig.class
+com\spring\batch\demo\springDemo\service\StudentService.class
